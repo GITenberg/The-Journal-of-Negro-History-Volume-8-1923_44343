@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3835
     wikipedia: http://en.wikipedia.org/wiki/Carter_G._Woodson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44343#The-Journal-of-Negro-History-Volume-8-1923
 gutenberg_issued: '2013-12-03'
 gutenberg_type: Text
 identifiers:
