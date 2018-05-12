@@ -1,0 +1,35 @@
+_repo: The-Journal-of-Negro-History-Volume-8-1923_44343
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44343-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Woodson, Carter Godwin
+    aliases:
+    - Woodson, C. G. (Carter Godwin)
+    - Woodson, Carter G.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '3835'
+    url: http://www.gutenberg.org/2009/agents/3835
+    wikipedia: http://en.wikipedia.org/wiki/Carter_G._Woodson
+description: ''
+gutenberg_issued: '2013-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Periodicals'
+- !lcc 'E151'
+title: The Journal of Negro History, Volume 8, 1923
+url: http://www.gutenberg.org/ebooks/44343
